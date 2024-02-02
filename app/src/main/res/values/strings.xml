@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Angle Guess</string>
+    <color name="TextColor">#FFFFFF</color>
+    <color name="Background">#FFFFFF</color>
+    <string name="Credits1">Credits by</string>
+    <string name="Credits2">Mark Nieto</string>
+</resources>
